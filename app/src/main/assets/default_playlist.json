@@ -1,0 +1,149 @@
+{
+  "tv": [
+    {
+      "id": "tv_atv",
+      "title": "ATV HD",
+      "category": "Ulusal",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/512px-Atv_logo_2010.svg.png",
+      "url": "https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e",
+      "backupUrl": "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8"
+    },
+    {
+      "id": "tv_a2",
+      "title": "A2 TV",
+      "category": "Ulusal",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A2_TV_logo.svg/512px-A2_TV_logo.svg.png",
+      "url": "https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758",
+      "backupUrl": ""
+    },
+    {
+      "id": "tv_ahaber",
+      "title": "A Haber HD",
+      "category": "Haber",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Haber_logo.svg/512px-A_Haber_logo.svg.png",
+      "url": "https://trkvz.daioncdn.net/ahaber/ahaber.m3u8?app=web",
+      "backupUrl": ""
+    },
+    {
+      "id": "tv_aspor",
+      "title": "A Spor HD",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/A_Spor_logo.svg/512px-A_Spor_logo.svg.png",
+      "url": "https://trkvz.daioncdn.net/aspor/aspor.m3u8?ce=3&app=45f847c4-04e8-419a-a561-2ebf87084765",
+      "backupUrl": ""
+    },
+    {
+      "id": "tv_apara",
+      "title": "A Para",
+      "category": "Ekonomi",
+      "logo": "",
+      "url": "https://trkvz.daioncdn.net/apara/apara.m3u8?app=web",
+      "backupUrl": ""
+    },
+    {
+      "id": "tv_anews",
+      "title": "A News HD",
+      "category": "Haber",
+      "logo": "",
+      "url": "https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8",
+      "backupUrl": ""
+    },
+    {
+      "id": "tv_vav",
+      "title": "Vav TV",
+      "category": "Kültür",
+      "logo": "",
+      "url": "https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8",
+      "backupUrl": ""
+    },
+    {
+      "id": "tv_minikago",
+      "title": "Minika GO",
+      "category": "Çocuk",
+      "logo": "",
+      "url": "https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3",
+      "backupUrl": ""
+    },
+    {
+      "id": "tv_minikacocuk",
+      "title": "Minika Çocuk",
+      "category": "Çocuk",
+      "logo": "",
+      "url": "https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3",
+      "backupUrl": ""
+    }
+  ],
+  "radio": [
+    {
+      "id": "rad_trt_turku",
+      "title": "TRT Türkü",
+      "category": "Türkü & Halk Müziği",
+      "logo": "",
+      "url": "https://trt.radyotvonline.net/trtturku"
+    },
+    {
+      "id": "rad_trt_fm",
+      "title": "TRT FM",
+      "category": "Pop & Nostalji",
+      "logo": "",
+      "url": "https://trt.radyotvonline.net/trtfm"
+    },
+    {
+      "id": "rad_trt_haber",
+      "title": "TRT Radyo Haber",
+      "category": "Haber",
+      "logo": "",
+      "url": "https://trt.radyotvonline.net/trtradyohaber"
+    },
+    {
+      "id": "rad_kral_fm",
+      "title": "Kral FM",
+      "category": "Arabesk & Fantezi",
+      "logo": "",
+      "url": "https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8"
+    }
+  ],
+  "movies": [
+    {
+      "id": "mov_1",
+      "title": "Büyük Macera",
+      "category": "Animasyon / Macera",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "mov_2",
+      "title": "Çelik Gözyaşları",
+      "category": "Bilim Kurgu",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    }
+  ],
+  "series": [
+    {
+      "id": "ser_1",
+      "title": "Anadolu Hikayeleri",
+      "category": "Dram / Tarih",
+      "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "1. Bölüm - Başlangıç",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "2. Bölüm - Yolculuk",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
